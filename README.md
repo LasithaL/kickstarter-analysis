@@ -39,5 +39,5 @@ The dataset was somewhat challenging in the way it was presented. Some adjustmen
 
 - What are some other possible tables and/or graphs that we could create?
     - In this analysis we looked at the the outcomes based on launch date. The trends seen could be an artifact of just having more or less campaigns started within any given month. If we examine the success rate as a percentage might give us more information independat of the number of the total campaigns launched.
-    - As mentioned in the above section, the analysis is done on the a dataset that includes many countries. We could generate charts that separate the outcomes filtered by country we will be able to target our campaign to a specific region at a specif time.
+    - As mentioned in the above section, the analysis is done on the a dataset that includes many countries. We could generate charts that separate the outcomes filtered by country we will be able to target our campaign to a specific region at a specific time.
 
