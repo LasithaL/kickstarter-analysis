@@ -15,7 +15,7 @@ An analysis of the dataset was performed in the parent category of theater. The 
 
 ### Analysis of Outcomes Based on Goals
 Further analysis was performed within the parent category of theater with a focus on the subcategory of plays. In this portion of the analysis the data was categorized by funding levels. The number of successful, failed and canceled fundraisers were examined within each funding level category as a ratio of outcome.  The findings of analysis of outcomes based on goals are displayed in a table format in the Kickstarter Challenge Excel Workbook and within the line chart labeled Outcomes Based on Goals.
-![Outcomes_Based_on_Goals](Resources/Outcomes_vs_Goals.png)
+![Outcomes_Based_on_Goals](Resources/Outcome_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 The dataset was somewhat challenging in the way it was presented. Some adjustments had to be made to improve useability. The list below includes some challenges.
